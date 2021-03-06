@@ -1,2 +1,5 @@
-* {
-	background-color:#00f}
+body {
+	background-color:#00f;
+	font-with: bold;
+	font-color: red;
+}
